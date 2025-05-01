@@ -1,1 +1,1 @@
-# ThisIsCodingTest
+# Algorithm
